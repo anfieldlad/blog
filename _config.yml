@@ -16,11 +16,11 @@
 title: Bobby Ananta Dioriza
 email: bobby@dioriza.com
 description: > # this means to ignore newlines until "baseurl:"
-  My Experiment Jekyll Site.
+  This site built with Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://dioriza.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bobby_dioriza
-github_username:  anfieldlad
+github_username: anfieldlad
 
 # Build settings
 markdown: kramdown
